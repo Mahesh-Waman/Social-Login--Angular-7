@@ -6,21 +6,21 @@
  2) To run project us `ng serve`.
 
  # Steps to run project using Google and Facebook
- 1) [google Integration](https://developers.google.com/identity/sign-in/web/sign-in) read this documentation 
+ 1) [google Integration](https://developers.google.com/identity/sign-in/web/sign-in). read this documentation 
     1.1) Congfigure your project and create client id of google copy your `client id` in `app.module.ts`
- 2) [Facebook Integration](https://developers.facebook.com/docs)
+ 2) [Facebook Integration](https://developers.facebook.com/docs).
     2.1) `log in` the application using your facebook account and then click on `My App` and Create `own App` and enter all information
 
     2.2) copy the `App Id` and paste in `app.Module.ts`
   ## 2.1 Use Full Link to integrate Facebook
-    1) [Part 1 of steps of setup](https://medium.com/developing-an-angular-4-web-app/adding-facebook-oauth-to-our-app-1fe597f454a1)
-    2) [Part 2 of Steps of setup](https://medium.com/developing-an-angular-4-web-app/adding-facebook-oauth-to-our-app-a4066a320694)
+1) [Part 1](https://medium.com/developing-an-angular-4-web-app/adding-facebook-oauth-to-our-app-1fe597f454a1).
+2) [Part 2 of Steps of setup](https://medium.com/developing-an-angular-4-web-app/adding-facebook-oauth-to-our-app-a4066a320694).
 
  # Link of angularx-social-login
 
  1) [npm link](https://www.npmjs.com/package/angularx-social-login).
- 2) [youtube video link] (https://www.youtube.com/watch?v=QyzJQ5xsk7U)
- 
+ 2) [youtube video link](https://www.youtube.com/watch?v=QyzJQ5xsk7U).
+
 # FacebookIntegration
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
